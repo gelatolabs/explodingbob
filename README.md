@@ -11,7 +11,7 @@
 
 An educational game created for the [Apps4Learning](https://web.archive.org/web/20160129080846/http://www.apps4learning.ca/) program.
 
-https://gelatolabs.xyz/angstromsrampage/
+https://gelatolabs.xyz/explodingbob/
 
 Credits
 =======
